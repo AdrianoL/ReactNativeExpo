@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppRegistry, StyleSheet, View } from 'react-native';
-import Navigation from './components/Navigation';
+import Navigation from './src/components/Navigation';
 
 function App() {
   return (
